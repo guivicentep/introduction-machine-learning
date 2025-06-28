@@ -23,7 +23,6 @@ Este projeto faz uso das seguintes ferramentas e bibliotecas Python:
 * **Pandas:** Para manipulação e análise de dados estruturados.
 * **NumPy:** Para computação numérica eficiente, especialmente com arrays.
 * **Matplotlib:** Para criação de visualizações estáticas, animadas e interativas em Python.
-    * *(Opcional: Adicione aqui outras bibliotecas que você planeja usar ou já usou, como `Seaborn`, `Scikit-learn`, etc.)*
 
 ---
 
@@ -31,6 +30,7 @@ Este projeto faz uso das seguintes ferramentas e bibliotecas Python:
 
 O repositório está organizado da seguinte forma:
 
+```
 .
 ├── .ipynb_checkpoints/ # (Ignorado pelo Git) Backups temporários do Jupyter.
 ├── data/
@@ -50,7 +50,7 @@ O repositório está organizado da seguinte forma:
 ├── .gitignore
 ├── README.md
 └── requirements.txt
-
+```
 * **`notebooks/`**: Contém todos os arquivos Jupyter Notebook (`.ipynb`), organizados por tópico ou ordem de aprendizado.
 * **`data/`**: Armazena os conjuntos de dados utilizados nos notebooks.
 * **`.gitignore`**: Define os arquivos e diretórios a serem ignorados pelo Git (como `env/` e `.ipynb_checkpoints/`).
@@ -102,7 +102,6 @@ Aqui estão alguns exemplos de tópicos abordados nos notebooks:
 * **`1-introduction-to-pandas.ipynb`**: Manipulação básica de DataFrames, seleção, filtragem e operações.
 * **`2-introduction-to-numpy.ipynb`**: Operações com arrays multidimensionais e funções matemáticas.
 * **`3-matplotlib.ipynb`**: Criação de gráficos de dispersão, histogramas, box plots, etc.
-    * *(Considere adicionar uma breve descrição para o `1-example-notebook.ipynb` também, se ele for um exemplo genérico ou introdutório.)*
 
 ---
 
