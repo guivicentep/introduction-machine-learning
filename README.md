@@ -31,45 +31,6 @@ Este projeto faz uso das seguintes ferramentas e bibliotecas Python:
 
 O repositório está organizado da seguinte forma:
 
-Com certeza! O Markdown tem algumas regras específicas para listas, blocos de código e negrito que, se não seguidas, podem deixar o texto com uma formatação estranha.
-
-Ajustei o seu texto para o formato Markdown correto, incluindo os detalhes da estrutura do seu repositório.
-
-Markdown
-
-# 📚 Projeto de Estudos em Machine Learning
-
-Este repositório serve como um espaço dedicado ao meu aprendizado e prática de conceitos fundamentais em Machine Learning, utilizando a flexibilidade e interatividade dos Jupyter Notebooks. Aqui, exploro diversas bibliotecas e técnicas essenciais para a construção e análise de modelos de dados.
-
----
-
-## 🎯 Objetivo
-
-O principal objetivo deste projeto é consolidar meu conhecimento em Machine Learning através da aplicação prática de conceitos. Cada notebook representa um tópico ou uma etapa de aprendizado, permitindo-me:
-
-* **Compreender** os fundamentos teóricos por trás de algoritmos e técnicas.
-* **Desenvolver** habilidades em manipulação, visualização e pré-processamento de dados.
-* **Implementar** e testar diferentes modelos de Machine Learning.
-* **Analisar** e interpretar resultados, avaliando a performance dos modelos.
-
----
-
-## 🛠️ Tecnologias e Bibliotecas Utilizadas
-
-Este projeto faz uso das seguintes ferramentas e bibliotecas Python:
-
-* **Jupyter Notebook:** Para um ambiente de desenvolvimento interativo e documentado.
-* **Pandas:** Para manipulação e análise de dados estruturados.
-* **NumPy:** Para computação numérica eficiente, especialmente com arrays.
-* **Matplotlib:** Para criação de visualizações estáticas, animadas e interativas em Python.
-    * *(Opcional: Adicione aqui outras bibliotecas que você planeja usar ou já usou, como `Seaborn`, `Scikit-learn`, etc.)*
-
----
-
-## 📂 Estrutura do Repositório
-
-O repositório está organizado da seguinte forma:
-
 .
 ├── .ipynb_checkpoints/ # (Ignorado pelo Git) Backups temporários do Jupyter.
 ├── data/
