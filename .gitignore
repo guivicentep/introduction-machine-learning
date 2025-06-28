@@ -1,0 +1,5 @@
+# Ambientes virtuais
+env/
+
+# Checkpoints do Jupyter Notebook
+.ipynb_checkpoints/
